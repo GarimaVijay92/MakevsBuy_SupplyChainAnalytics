@@ -1,6 +1,6 @@
 # Make vs Buy Interactive Dashboard
 # Supply Chain Data Analytics
-# Overview
+## Overview
 This interactive Power BI dashboard helps in making data-driven "Make vs Buy" decisions by analyzing cost components, supplier quotes, and in-house production capabilities. The dashboard provides three key analyses:
 
 Supplier Cost Comparison: Evaluating quotes from four suppliers across nine products, considering different minimum volumes and unit prices.
